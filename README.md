@@ -15,11 +15,11 @@ Wit.ai
 
 Download the project into you PC and import it to unity project.
 
-## Deployment
+### Deployment
 
 Play button and start the application and test it on your PC
 
-##Build
+### Build
 Go to file section in Unity and select Build setting change the application name.
 Then go to build add scene and and build and Run.
 
